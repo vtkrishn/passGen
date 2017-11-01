@@ -1,6 +1,6 @@
 'use strict';
 
-var $ = (function(number,length){
+var helper = (function(number,length){
 
 	return (function(number,length){
 
@@ -51,8 +51,6 @@ var $ = (function(number,length){
 	})(number,length);
 }); 
 
-console.clear();
-
 //console.log($(2));
 
-module.exports = $;
+module.exports = helper;

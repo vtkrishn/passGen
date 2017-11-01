@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/vtkrishn/leetcode-helper.svg?branch=master)](https://travis-ci.org/vtkrishn/leetcode-helper) [![Coverage Status](https://coveralls.io/repos/github/vtkrishn/leetcode-helper/badge.svg?branch=master)](https://coveralls.io/github/vtkrishn/leetcode-helper?branch=master)
 
-[![NPM](https://nodei.co/npm/leetcode-helper.png)](https://nodei.co/npm/leetcode-helper/)
+[![NPM](https://nodei.co/npm/pass-generator.png?compact=true)](https://nodei.co/npm/pass-generator/)
 
 # Password Generator
 
