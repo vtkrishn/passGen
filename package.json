@@ -1,0 +1,35 @@
+{
+  "name": "pass-generator",
+  "version": "2.0.0",
+  "description": "generate password with various options",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtkrishn/passGen.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "base68"
+  ],
+  "author": "Vinod Krishnan <vin.sinin@gmail.com> (https://vtkrishn.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vtkrishn/passGen/issues"
+  },
+  "homepage": "https://github.com/vtkrishn/passGen#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^4.0.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
